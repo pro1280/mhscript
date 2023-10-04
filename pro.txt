@@ -20,7 +20,7 @@ elseif a=="jhufhgufg"then
 _G.she=true
 elseif a=="godminghang"then
 _G.she=true
-elseif a=="用户名"then
+elseif a=="wdxsc271319wushx"then
 _G.she=true
 elseif a=="用户名"then
 _G.she=true
